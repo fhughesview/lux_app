@@ -1,5 +1,4 @@
 <script>
-  import logo from './assets/svelte.png'
   import Login from './lib/Login.svelte'
   import Spaces from './lib/Spaces.svelte'
 
